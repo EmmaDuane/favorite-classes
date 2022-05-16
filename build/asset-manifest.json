@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.702d3c91.css",
+    "main.js": "/my-app/static/js/main.a8d12d2b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/my-app/static/js/787.28cb0dcd.chunk.js",
+    "static/media/ucibackground.png": "/my-app/static/media/ucibackground.e52d5166ec13c30c1bb2.png",
+    "static/media/logo.svg": "/my-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/my-app/index.html",
+    "main.702d3c91.css.map": "/my-app/static/css/main.702d3c91.css.map",
+    "main.a8d12d2b.js.map": "/my-app/static/js/main.a8d12d2b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/my-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.702d3c91.css",
+    "static/js/main.a8d12d2b.js"
+  ]
+}
