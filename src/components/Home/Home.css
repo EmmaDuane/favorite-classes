@@ -1,0 +1,12 @@
+.mainSection{
+    border: 5px solid #ffd200;
+    padding: 5px;
+    color: black;
+}
+
+.favClass{  
+    position: relative;
+    padding: 10px;
+    margin: 10px;
+    max-width: 500px; 
+}
