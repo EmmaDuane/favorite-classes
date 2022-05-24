@@ -1,17 +1,17 @@
 {
-  "files": {
-    "main.css": "/favorite-classes/static/css/main.fcf698e1.css",
-    "main.js": "/favorite-classes/static/js/main.f5bff6b2.js",
-    "static/js/787.28cb0dcd.chunk.js": "/favorite-classes/static/js/787.28cb0dcd.chunk.js",
-    "static/media/ucibackground.png": "/favorite-classes/static/media/ucibackground.e52d5166ec13c30c1bb2.png",
-    "static/media/logo.svg": "/favorite-classes/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/favorite-classes/index.html",
-    "main.fcf698e1.css.map": "/favorite-classes/static/css/main.fcf698e1.css.map",
-    "main.f5bff6b2.js.map": "/favorite-classes/static/js/main.f5bff6b2.js.map",
-    "787.28cb0dcd.chunk.js.map": "/favorite-classes/static/js/787.28cb0dcd.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.fcf698e1.css",
-    "static/js/main.f5bff6b2.js"
-  ]
+  "main.css": "/favorite-classes/static/css/main.7e9905c0.chunk.css",
+  "main.js": "/favorite-classes/static/js/main.c752bc9d.chunk.js",
+  "main.js.map": "/favorite-classes/static/js/main.c752bc9d.chunk.js.map",
+  "static/js/1.05a8e767.chunk.js": "/favorite-classes/static/js/1.05a8e767.chunk.js",
+  "static/js/1.05a8e767.chunk.js.map": "/favorite-classes/static/js/1.05a8e767.chunk.js.map",
+  "static/js/2.a9b3ea05.chunk.js": "/favorite-classes/static/js/2.a9b3ea05.chunk.js",
+  "static/js/2.a9b3ea05.chunk.js.map": "/favorite-classes/static/js/2.a9b3ea05.chunk.js.map",
+  "runtime~main.js": "/favorite-classes/static/js/runtime~main.ea367f35.js",
+  "runtime~main.js.map": "/favorite-classes/static/js/runtime~main.ea367f35.js.map",
+  "static/media/logo.svg": "/favorite-classes/static/media/logo.06e73328.svg",
+  "static/media/App.css": "/favorite-classes/static/media/ucibackground.ecff8297.png",
+  "static/css/main.7e9905c0.chunk.css.map": "/favorite-classes/static/css/main.7e9905c0.chunk.css.map",
+  "index.html": "/favorite-classes/index.html",
+  "precache-manifest.52d7231d8ac05072899a96463f8094fe.js": "/favorite-classes/precache-manifest.52d7231d8ac05072899a96463f8094fe.js",
+  "service-worker.js": "/favorite-classes/service-worker.js"
 }
